@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+CONNECTION...;%3E+BYPASSING+FIREWALL...;%3E+ACCESS+GRANTED.;%3E+WELCOME+TO+THE+GRID%2C+THEO+DEVELOPER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3BEM+VINDO...;%3SANTA+MARIA+ROGAI+POR+NOS;%3E+ACCESS+GRANTED.;%3E+WELCOME+TO+THE+GRID%2C+THEO+DEVELOPER" alt="Typing SVG" />
 
 # ` THEO DEVELOPER `
 
