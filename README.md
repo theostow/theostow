@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, pessoal! 👋
 
 <!--
 **theostow/theostow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
