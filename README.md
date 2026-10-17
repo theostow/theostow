@@ -5,3 +5,4 @@
 </a>
 
 </div>
+<img src="skills.svg" alt="Habilidades de Theo Developer" width="100%">
