@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" role="img" aria-label="Gráfico de habilidades de Theo Developer">
+  <style>
+    .t { font-family: 'Courier New', Courier, monospace; fill: #ffffff; }
+    .title { font-size: 20px; font-weight: bold; }
+    .label { font-size: 15px; }
+    .pct { font-size: 14px; }
+    .bar { fill: #ffffff; transform-box: fill-box; transform-origin: left; animation: grow 1.6s ease-out both; }
+    .b2 { animation-delay: .25s; }
+    .b3 { animation-delay: .5s; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="798" height="258" rx="10" fill="#3b2314" stroke="#ffffff" stroke-width="2"/>
+
+  <text x="30" y="42" class="t title">&gt; habilidades<tspan class="cursor">_</tspan></text>
+
+  <!-- Java -->
+  <text x="30" y="97" class="t label">Java</text>
+  <rect x="230" y="82" width="480" height="18" rx="3" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+  <rect x="230" y="82" width="408" height="18" rx="3" class="bar"/>
+  <text x="725" y="97" class="t pct">85%</text>
+
+  <!-- Cibersegurança -->
+  <text x="30" y="147" class="t label">Cibersegurança</text>
+  <rect x="230" y="132" width="480" height="18" rx="3" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+  <rect x="230" y="132" width="336" height="18" rx="3" class="bar b2"/>
+  <text x="725" y="147" class="t pct">70%</text>
+
+  <!-- Engenharia de Software -->
+  <text x="30" y="197" class="t label">Eng. de Software</text>
+  <rect x="230" y="182" width="480" height="18" rx="3" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+  <rect x="230" y="182" width="384" height="18" rx="3" class="bar b3"/>
+  <text x="725" y="197" class="t pct">80%</text>
+</svg>
